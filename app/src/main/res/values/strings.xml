@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Lorem ipsum</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare
+        aliquam augue, ac suscipit neque aliquet eget. Nunc fringilla, justo sed gravida vehicula,
+        justo nulla gravida massa, vel fringilla urna mauris ut dolor. Duis fermentum massa elit,
+        volutpat blandit neque vulputate eu. Morbi sodales semper massa, eget aliquam quam lobortis
+        sed. In quis ultrices massa, non scelerisque lacus. Vestibulum non consequat erat. Class
+        aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+        Phasellus sagittis purus at nisl sodales ultricies. Ut ornare lectus at sagittis consectetur.
+        Nullam tristique turpis vel malesuada commodo. Aliquam facilisis augue nec consequat dictum.
+        Phasellus dictum luctus justo ut condimentum. Nulla sollicitudin sollicitudin mi nec
+        ultricies. Maecenas ante lacus, mollis sit amet orci eu, luctus finibus nulla.
+        \n\nIn tempus ante eu porttitor bibendum. Phasellus in sapien blandit, ornare nulla et,
+        mollis risus. Pellentesque pharetra dolor non ullamcorper auctor. Ut malesuada, augue a
+        pellentesque sodales, massa ligula volutpat mauris, eu varius massa ligula at felis. Nunc
+        tempor efficitur sem, et tempor ipsum eleifend non. Fusce nibh lacus, interdum in mi
+        accumsan, volutpat semper lectus. Quisque vulputate eros ac elementum rutrum. Quisque in
+        vestibulum ipsum. Nullam a sem at dui mattis venenatis. Duis eleifend consequat nisi, sed
+        malesuada purus lacinia quis. Proin condimentum cursus risus sed pellentesque. Mauris ac
+        sapien sed ligula blandit ultricies. Donec convallis vehicula velit, vel ullamcorper arcu
+        mattis vitae. Donec feugiat tristique velit id gravida. Nulla nec semper ante. Curabitur
+        blandit aliquam eros a hendrerit.</string>
+</resources>
